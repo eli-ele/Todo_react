@@ -5,7 +5,7 @@ const Button = ({
     children,
     width,
     height,
-    cursor,
+   
 }) => {
     return (
     <button className='add_btn'
